@@ -7,7 +7,7 @@
 
 ## Esercizi
 
-### Esercizio 1: Calcolo della Media
+### Esercizio 1: Calcolo numero primo
 Crea un diagramma a blocchi che verifichi se un numero inserito dall'utente è un numero primo. Il diagramma deve:
 - Richiedere all'utente di inserire un numero.
 - Verificare se il numero è divisibile solo per 1 e per se stesso.
