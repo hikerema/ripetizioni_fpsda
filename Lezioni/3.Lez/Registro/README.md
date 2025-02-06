@@ -7,7 +7,7 @@ Scrivere un programma in C che gestisca un registro di studenti leggendo i dati 
 1. Il programma deve accettare il **nome del file** come **argomento da riga di comando**.
 2. Il file di input conterrà più righe, ciascuna con i dati di uno studente nel seguente formato:
 
- <Nome> <Età> <media>
+ Nome Età Media
 
 **Esempio di file:**
 
