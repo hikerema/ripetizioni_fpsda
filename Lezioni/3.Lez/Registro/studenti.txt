@@ -1,0 +1,10 @@
+Alessandro 21 26.5  
+Emanuele 22 29.0  
+Carlo 23 27.8  
+Daniela 20 24.3  
+Denisa 19 30.0  
+Francesco 24 28.7  
+Giulia 21 25.9  
+Lorenzo 23 26.2  
+Martina 22 27.5  
+Nicola 20 23.8
