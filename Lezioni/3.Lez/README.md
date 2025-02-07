@@ -1,4 +1,4 @@
-# Lezione 3 (2 ore)
+# Lezione 3 (3 ore in due giorni)
 > 🟡 Pagamento in attesa, non reclamato
 - Ripasso su scope delle variabili
 - Standard Output 
