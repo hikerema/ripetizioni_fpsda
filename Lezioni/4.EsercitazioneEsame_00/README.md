@@ -1,3 +1,3 @@
 # Lezione 4 (2 ore)
-> 🟡 Pagamento reclamato.
+> 🟢 Pagamento ricevuto.
 - Esercizio tipo esame
